@@ -12,6 +12,8 @@ The objective is to go from a non-linear, interactive and test style, to a more 
 
     Download the Fremont Bridge bicycle data and produce some basic visualizations in the Jupyter notebook.
 
+[Fremont bridge data](https://data.seattle.gov/api/views/65db-xm6k/rows.csv?accessType=DOWNLOAD)
+
 #### Part 2: Further Data Exploration
 
     Dive a bit deeper into the exploration of the Fremont bridge data.

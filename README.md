@@ -36,7 +36,7 @@ The objective is to go from a non-linear, interactive and test style, to a more 
     Refactoring a slow piece of our code, ensuring that it passes our previous unit tests.
     We notice that check_fremont_data() function runs a little bit fast.
 
-![data-time1](jupyterworkflow/tests/time_test2.png)
+![data-time2](jupyterworkflow/tests/time_test2.png)
 
 #### Part 7: Further Data Exploration: PCA and GMM
 

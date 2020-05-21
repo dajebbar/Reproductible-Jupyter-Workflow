@@ -29,14 +29,14 @@ The objective is to go from a non-linear, interactive and test style, to a more 
     Write unit tests using the pytest package to ensure that our Python code is operating correctly.
     We notice that check_fremont_data() function runs slowly.
 
-![data-time1](jupyterworkflow/tests/time_test1.png)
+![data-time1](jupyterworkflow/tests/time_test1.PNG)
 
 #### Part 6: Refactoring for Speed
 
     Refactoring a slow piece of our code, ensuring that it passes our previous unit tests.
     We notice that check_fremont_data() function runs a little bit fast.
 
-![data-time2](jupyterworkflow/tests/time_test2.png)
+![data-time2](jupyterworkflow/tests/time_test2.PNG)
 
 #### Part 7: Further Data Exploration: PCA and GMM
 

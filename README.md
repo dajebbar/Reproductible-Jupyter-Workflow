@@ -43,3 +43,5 @@ The objective is to go from a non-linear, interactive and test style, to a more 
 #### Part 7: Further Data Exploration: PCA and GMM
 
     Diving deeper into the data analysis, doing some unsupervised learning, including Principal Component Analysis and Gaussian Mixture Models.
+
+[Link to the Jupyter Note book workflow](Workflow.py.ipynb)
